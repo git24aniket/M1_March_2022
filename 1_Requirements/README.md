@@ -1,16 +1,16 @@
-#What
+#What:
 *I have implemented a tic tac toe game using c programming language.
 
-#why
+#why:
 *I implemnted it to test my learnings and concepts and to check whether I can implement my learnings or not.
 
-#when
+#when:
 *I programmed the code in the month of march'22 and uploaded it in my repo on 3rd April'22.
 
-#who
+#who:
 *coding enthusiasts, coding beginners, who loves to enjoy learnings, etc. are my target audiance.
 
-#how
+#how:
 *I have used c programming language to implement this project and have verified it on Dev C++ application software.
 
 
@@ -22,7 +22,7 @@
 #weakness:
 *I have a noticed that the interface which I designed could have been more attractive to the users.
 
-#oppurtunity;
+#oppurtunity:
 *this concepts can be used to implemnet more number of basic games and could make learnings more of fun.
 
 #threats:
